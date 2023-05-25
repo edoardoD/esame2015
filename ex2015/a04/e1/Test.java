@@ -23,7 +23,7 @@ import java.util.*;
 
 public class Test {    
     
-    /*
+    
     
     @org.junit.Test
     public void testBasic() {
@@ -133,8 +133,4 @@ public class Test {
             fail("wrong exception");
         }
     }
-    
-    */
-    
-
 }
